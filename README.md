@@ -1,8 +1,8 @@
-## 1. Overview
+## Overview
 
 memprof is a real-time memory profiling tool designed to monitor and analyze process memory usage on Unix-like systems. It provides both command-line interface and terminal-based user interface for interactive memory analysis.
 
-### 1.1 Core Objectives
+### Core Objectives
 
 - Real-time memory usage monitoring
 - Process memory mapping visualization
@@ -11,7 +11,7 @@ memprof is a real-time memory profiling tool designed to monitor and analyze pro
 - Interactive data visualization
 - Optional persistent storage of profiling data
 
-### 1.2 Key Features
+### Key Features
 
 - Live memory metrics collection
 - Interactive terminal UI with real-time graphs
